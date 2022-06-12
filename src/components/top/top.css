@@ -1,0 +1,19 @@
+@font-face {
+    font-family: EaoAl;
+    src: url('../../../public/Aesthetic-EaoAl.woff');
+}
+
+.main-top-div p {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: EaoAl;
+}
+
+.main-top-div {
+    width: 100%;
+    height: 100px;
+    background-color: #9BB393;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

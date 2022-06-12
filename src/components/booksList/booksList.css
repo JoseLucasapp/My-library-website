@@ -1,0 +1,9 @@
+.main-booksList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
